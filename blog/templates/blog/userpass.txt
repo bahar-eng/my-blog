@@ -1,6 +1,0 @@
-NHcR62ME3YU78VEy
-
-git config --global user.name "bahar"
-git config --global user.email aframirkazemi@gmail.com
- git remote add origin https://github.com/bahar-eng/my-blog.git
-  pa_autoconfigure_django.py https://github.com/bahar-eng/my-blog.git
